@@ -1,6 +1,6 @@
 #Build local monorepo image
 #docker build --no-cache -t  flowise .
-
+# THIS IS A TEST MESSAGE
 #Run image
 #docker run -d -p 3000:3000 flowise
 
